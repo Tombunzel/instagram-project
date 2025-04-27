@@ -16,7 +16,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "server": "node src/app.js"
+    "server": "node src/app.js",
+    "init-db": "node database/initialize-db.js"
   },
   "dependencies": {
     "better-sqlite3": "^11.9.1",
