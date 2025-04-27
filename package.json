@@ -1,0 +1,20 @@
+{
+  "name": "instagram-project",
+  "version": "1.0.0",
+  "description": "An Instagram clone project for self learning",
+  "homepage": "https://github.com/Tombunzel/instagram-project#readme",
+  "bugs": {
+    "url": "https://github.com/Tombunzel/instagram-project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tombunzel/instagram-project.git"
+  },
+  "license": "ISC",
+  "author": "Tom Bunzel",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
